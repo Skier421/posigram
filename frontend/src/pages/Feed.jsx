@@ -398,7 +398,6 @@ export default function Feed({ user, logOut }) {
                   <p className="text-xs uppercase tracking-[0.35em] text-purple-300 font-bold">⏱️ Time Left</p>
                   <p className="mt-4 text-lg text-slate-100 font-semibold">{hoursLeft}h to capture today</p>
                 </div>
-                {/* removed the 'Your Vibe' card per request */}
               </div>
             </div>
           </section>
